@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GridView</string>
+    <string name="logout">Logout</string>
+    <string name="share">Share</string>
+    <string name="about_us">About Us</string>
+    <string name="home">Home</string>
+</resources>
